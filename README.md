@@ -5,7 +5,6 @@ This repository contains a Power BI dashboard designed to visualize and analyze 
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Data Source](#data-source)
 - [Dashboard Details](#dashboard-details)
