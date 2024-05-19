@@ -23,6 +23,7 @@ This repository contains a Power BI dashboard designed to visualize and analyze 
 - Customizable filters and slicers for detailed analysis
 - Exportable reports and data
 
+
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
